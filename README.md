@@ -141,7 +141,11 @@ public class Solution {
 
 ### Java Stdin and Stdout II
 
+sfsdgfsdfsa
 
+sgsdagdas
+
+gsgsdgasgs
 ---
 
 <details>
